@@ -14,7 +14,7 @@
 * **Streamlit** (UI)
 
 ## 📸 Demo
-![App Demo](screenshot-1.png)
+![CleanCode AI Interface](screenshot.png)
 *(Note: Rename this if your file uploaded with a different name)*
 
 ## 📦 How to Run
